@@ -1,4 +1,4 @@
-# ML Project Implementation
+## ML Project Implementation
 The below commands work for Linux/MacOS distributions.
 ### Prerequisites
 Python3
